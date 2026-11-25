@@ -10,7 +10,7 @@
 ---<br>
 name: ala-cef<br>
 description: chromium panes<br>
-status: alpha<br>
+status: slopware<br>
 license: mit or apache-2.0<br>
 version: 0.1.0<br>
 ---
